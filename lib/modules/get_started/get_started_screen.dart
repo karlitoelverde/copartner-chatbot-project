@@ -82,7 +82,7 @@ class _GetStartedScreenState extends State<GetStartedScreen> {
     // Even if the user hasn't chosen a language, default to English texts.
     final bool useEnglish = languageProvider.isEnglish;
 
-    final title = useEnglish ? "Welcome" : "Maligayang etit";
+    final title = useEnglish ? "Welcome" : "Maligayang Pagdating";
     final description = useEnglish
         ? "Your reliable companion for answering all of your concerns. Let's get you started!"
         : "Ang iyong mapagkakatiwalaang kasama para sagutin ang lahat ng iyong mga alalahanin. Simulan na natin!";
