@@ -79,11 +79,10 @@ class _GetStartedScreenState extends State<GetStartedScreen> {
   // Slide 1: Intro Slide.
   Widget _buildIntroSlide() {
     final languageProvider = Provider.of<LanguageProvider>(context);
-    // Even if the user hasn't chosen a language, default to English texts.
     final bool useEnglish = languageProvider.isEnglish;
 
     final title = useEnglish
-        ? "Welcomeee"
+        ? "Welcome"
         : "Maligayang Pagdating";
     final description = useEnglish
         ? "Your reliable companion for answering all of your concerns. Let's get you started!"
