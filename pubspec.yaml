@@ -1,0 +1,50 @@
+name: copartner
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you plan to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  provider: ^6.1.2
+  image_picker: 1.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.3
+
+ # Add this line:
+  liquid_swipe: ^2.1.0
+  
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/copartner-withname.png
+    - assets/images/copartner-noname.png
+    - assets/images/copartner-slide1-img.png
+    - assets/images/copartner-slide2-img.png
+    - assets/images/copartner-slide3-img.png
+    - assets/images/copartner-splashscreen.gif
+    - assets/images/language_book.png
+    - assets/images/splash.gif
+    - assets/images/welcome.gif
+
+  fonts:
+    - family: Alumni Sans
+      fonts:
+        - asset: assets/fonts/AlumniSans-Regular.ttf
+        - asset: assets/fonts/AlumniSans-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/AlumniSans-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/AlumniSans-Light.ttf
+          weight: 300
+        - asset: assets/fonts/AlumniSans-Italic.ttf
+          style: italic

@@ -1,0 +1,2 @@
+C:/Users/Harvey/Downloads/copartner-20250227T064521Z-001/copartner/android/app/.cxx/Debug/411g706l/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Harvey/Downloads/copartner-20250227T064521Z-001/copartner/android/app/.cxx/Debug/411g706l/x86_64/CMakeFiles/rebuild_cache.dir
