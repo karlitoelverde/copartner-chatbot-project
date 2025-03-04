@@ -1,0 +1,2 @@
+C:/Users/Harvey/Documents/GitHub/copartner-chatbot-project/android/app/.cxx/Debug/58gq3h5z/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Harvey/Documents/GitHub/copartner-chatbot-project/android/app/.cxx/Debug/58gq3h5z/armeabi-v7a/CMakeFiles/rebuild_cache.dir
