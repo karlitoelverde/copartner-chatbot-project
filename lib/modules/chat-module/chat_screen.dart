@@ -14,7 +14,6 @@ final Map<String, String> solutionsEnglish = {
       "Contact IT support for account reactivation requests.",
   "Deactivation of Old Users":
       "Administrators can deactivate users via the user management panel.",
-  "Reactivation Requests": "Submit a request form through the support portal.",
   "Updating Contact Information":
       "Go to settings and update your phone number and email.",
   "New Issuance Issues":
@@ -24,15 +23,7 @@ final Map<String, String> solutionsEnglish = {
   "On-Stock Firearm Issues":
       "Verify inventory records and coordinate with supply officers.",
   "Missing Data in System":
-      "Refresh your dashboard or check for system updates.",
-  "Technical Errors & Glitches":
-      "Clear cache, restart the app, or contact IT support.",
-  "IT Support":
-      "Contact IT support at support@example.com or call 123-456-7890.",
-  "HR/Personnel Support":
-      "Reach out to HR at hr@example.com for personnel concerns.",
-  "Logistics/Firearms Division":
-      "Logistics support is available at logistics@example.com."
+      "Refresh your dashboard or check for system updates."
 };
 
 // Tagalog solutions
@@ -47,7 +38,6 @@ final Map<String, String> solutionsTagalog = {
       "Makipag-ugnayan sa IT support para sa reactivation ng iyong account.",
   "Deactivation of Old Users":
       "Maaaring i-deactivate ng administrador ang mga lumang user gamit ang user management panel.",
-  "Reactivation Requests": "Mag-submit ng request form sa support portal.",
   "Updating Contact Information":
       "Pumunta sa settings at i-update ang iyong numero ng telepono at email.",
   "New Issuance Issues":
@@ -57,15 +47,7 @@ final Map<String, String> solutionsTagalog = {
   "On-Stock Firearm Issues":
       "I-verify ang inventory records at makipag-coordinate sa supply officers.",
   "Missing Data in System":
-      "I-refresh ang iyong dashboard o i-check ang system updates.",
-  "Technical Errors & Glitches":
-      "I-clear ang cache, i-restart ang app, o makipag-ugnayan sa IT support.",
-  "IT Support":
-      "Makipag-ugnayan sa IT support sa support@example.com o tumawag sa 123-456-7890.",
-  "HR/Personnel Support":
-      "Makipag-ugnayan sa HR sa hr@example.com para sa mga isyu sa personnel.",
-  "Logistics/Firearms Division":
-      "Available ang logistics support sa logistics@example.com."
+      "I-refresh ang iyong dashboard o i-check ang system updates."
 };
 
 Map<String, String> getSolutions(BuildContext context) {
